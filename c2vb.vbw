@@ -1,0 +1,6 @@
+basTranslate = 66, 66, 616, 506, C
+basTranslateFuncs = 66, 66, 616, 506, C
+basTranslateTypeDefs = 88, 88, 638, 528, C
+basTranslatePreprocessor = 110, 110, 660, 550, C
+basFile = 22, 22, 572, 462, C
+frmMain = 44, 44, 559, 484, C, 22, 22, 537, 462, C
